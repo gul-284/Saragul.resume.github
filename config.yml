@@ -2,4 +2,5 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [SARA GUL]
-description: [description: "ACS student passionate about AI, with strong foundations in C/C++, Java, data structures and computer networks. Exploring machine learning and building real-world projects."]
+description: ["ACS student passionate about AI, with strong foundations in C/C++, Java, data structures and computer networks. Exploring machine learning and building real-world projects."]
+
